@@ -1,0 +1,19 @@
+# Creating the Required Python Virtual Environment:
+
+1.  Make sure you have python3.12 properly installed (and pip is upgraded).
+
+2.  Using the 3.12 Python compiler/interpreter, create a virtual environment named TigerPool:
+
+        > python3.12 -m venv ~/.virtualenvs/TigerPool
+
+3.  Activate the TigerPool virtual environment:
+
+        > source ~/.virtualenvs/TigerPool/bin/activate
+
+4.  Install the necessary requirements listed in [`requirements.txt`](./requirements.txt):
+
+        > pip install -r requirements.txt
+
+### Note: If you are having issues with an SSL error and are on Mac, enter the following command in the terminal:
+
+    > /Applications/Python\ 3.12/Install\ Certificates.command

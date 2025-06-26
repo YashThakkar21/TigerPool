@@ -1,0 +1,27 @@
+{
+  "name": "tigerpool",
+  "version": "1.0.0",
+  "description": "TigerPool: Ridesharing Made Easy",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "TigerPool Team",
+  "dependencies": {
+    "@babel/core": "7.25.9",
+    "@babel/preset-env": "7.25.9",
+    "@babel/preset-react": "7.25.9",
+    "@googlemaps/js-api-loader": "^1.16.8",
+    "@vis.gl/react-google-maps": "^1.5.2",
+    "babel-loader": "9.2.1",
+    "bootstrap": "^5.3.5",
+    "react": "19.0.0",
+    "react-bootstrap": "^2.10.9",
+    "react-dom": "19.0.0",
+    "webpack": "5.97.1",
+    "webpack-cli": "6.0.1"
+  },
+  "devDependencies": {
+    "css-loader": "^7.1.2",
+    "style-loader": "^4.0.0"
+  }
+}
