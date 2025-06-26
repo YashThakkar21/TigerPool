@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://tigerpool.onrender.com/">
-    <img src="docs/assets/tigerpool_screenshot.png" alt="TigerPool Screenshot" width="600">
+    <img src="tigerpool.png" alt="TigerPool Screenshot" width="600">
   </a>
   <h1 align="center">TigerPool</h1>
   <p align="center">
